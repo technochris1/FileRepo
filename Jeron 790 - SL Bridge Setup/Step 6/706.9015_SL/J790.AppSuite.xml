@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<components>
+
+	<component src="sql\db7983\" type="1" ver="706.9015" name="db7983" desc="Jeron 7983 SQL DB" mdf="1024" ldf="128" mdd="64" ldd="32" />
+	<component src="sql\db7980\" type="1" ver="706.9015" name="db7980" desc="Jeron 7980 SQL DB" mdf="128" ldf="16" mdd="16" ldd="8" />
+	<component src="sql\db7970\" type="1" ver="706.9015" name="db7970" desc="Jeron 7970 SQL DB" mdf="32" ldf="8" mdd="8" ldd="8" />
+
+	<component src="J7983rh.z.msi" type="8" />
+	<component src="J7983cs.z.msi" type="4" />
+	<component src="J7983ls.z.msi" type="4" />
+	<component src="J7983ds.z.msi" type="4" />
+	<component src="J7983ss.z.msi" type="4" />
+
+	<component src="J7976cw.z.msi" type="2" />
+	<component src="J7976is.z.msi" type="4" />
+
+	<component src="J7980rh.z.msi" type="8" />
+	<component src="J7980cs.z.msi" type="4" />
+	<component src="J7980ns.z.msi" type="4" />
+	<component src="J7980ch.msi" type="24" />
+
+	<component src="J7981cw.z.msi" type="2" />
+	<component src="J7981ls.z.msi" type="4" />
+
+	<component src="J7982ch.msi" type="24" />
+
+	<component src="J7985ch.msi" type="24" />
+
+	<component src="J7986cw.z.msi" type="2" />
+
+	<component src="J7987ch.msi" type="40" />
+
+	<component src="J7970as.z.msi" type="4" />
+
+</components>
